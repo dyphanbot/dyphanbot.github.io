@@ -1,0 +1,11 @@
+{
+    "dyphan-extension": {
+        "id": "buzzbyte.dyphanbot.hellodyphan",
+        "name": "Hello DyphanBot!!",
+        "author": "Buzzbyte",
+        "command": "hello",
+        "request-url": "https://dyphanbot.github.io/repo/hello/hello.json",
+        "no-params": true,
+        "help": "Greets you."
+    }
+}
