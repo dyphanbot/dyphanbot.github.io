@@ -1,0 +1,12 @@
+{
+    "dyphan-extension": {
+        "id": "com.techisized.imagegen.twicaption",
+        "name": "TwiCaption",
+        "author": "Buzzbyte",
+        "website": "https://imagegen.techisized.com/twicaption",
+        "command": "twicaption",
+        "request-url": "https://imagegen.techisized.com/twicaption/dyphan",
+        "help": "Generates Twitter-style image captions. Useful for memeing! (Experimental/Pre-Alpha)",
+        "usage": "`{command} <Image URL> | <Text> [| nocrop]`"
+    }
+}
