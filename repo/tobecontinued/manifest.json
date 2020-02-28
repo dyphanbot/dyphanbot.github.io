@@ -1,0 +1,12 @@
+{
+    "dyphan-extension": {
+        "id": "com.techisized.imagegen.tobecontinued",
+        "name": "<= To Be Continued",
+        "author": "Buzzbyte",
+        "website": "https://imagegen.techisized.com/tobecontinued",
+        "command": "twicaption",
+        "request-url": "https://imagegen.techisized.com/tobecontinued/dyphan",
+        "help": "Generates 'To Be Continued' memes from images.\n(Experimental/Pre-Alpha)",
+        "usage": "`{command} <Image URL>`"
+    }
+}
